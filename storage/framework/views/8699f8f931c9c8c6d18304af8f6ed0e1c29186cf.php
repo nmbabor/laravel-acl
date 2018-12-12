@@ -1,0 +1,1 @@
+<?php echo e(Form::select('employee_id',$employee,'',['class'=>'form-control select','placeholder'=>'Select Employee','required'])); ?>

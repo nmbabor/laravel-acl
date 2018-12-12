@@ -1,0 +1,1 @@
+{{Form::select("storage_block_self_id[$purchaseOrderItemId]",$selfsOfBlock,[],['class'=>'form-control','placeholder'=>'Select Self/Rack','required'=>true])}}
